@@ -1,6 +1,6 @@
 # Rake Blog App
-![home](https://github.com/user-attachments/assets/ab596191-aa67-4443-ae9f-7b545bba1386)
-![create](https://github.com/user-attachments/assets/821e069e-8bb5-4caf-8a76-35ffa87f9e98)
+![home](https://github.com/user-attachments/assets/b27f01c9-780d-4082-b3f9-f7c7c0545dfb)
+![create](https://github.com/user-attachments/assets/b4be21c1-e4ae-4975-a2c8-51de7034c532)
 
 ## Details
 - Deployed online at - https://rake-27719.web.app/
