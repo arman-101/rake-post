@@ -9,6 +9,7 @@
 
 ## Running locally
 - Git clone / Download Zip
+- create a `.env` file in the root and keys in `firebase.ts`
 - install dependencies - `npm install`
 - run server - `npm start`
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
